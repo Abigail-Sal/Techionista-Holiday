@@ -1,2 +1,2 @@
 # Techionista-Holiday
-For this assignment, you will work in groups of four to five people. The first step will be to connect tothe data source and clean the data. Then, you will have to set up the Azure Cognitive Services in Azureand run the function in Power BI. The last steps of the  assignment  will  be  to  build  a  report  ordash board and present it.
+For this assignment, we work in groups of four to five people. We connected to the data source and cleaned the data. Then, set up the Azure Cognitive Services in Azure and ran the function in Power BI. Finaly, we to  built a report and dash board and present it to other groups.
